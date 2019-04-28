@@ -1,0 +1,12 @@
+<?php /* @var $this Example_Feature_Block_ContentList */ ?>
+<?php $contentList = $this->getContentList() ?>
+<ol class="content-list" id="content-list">
+  <?php foreach ($contentList as $content): ?>
+    <li>
+      <?php // Content container ?>
+      <div class="content-html-container">
+        <?php echo $content->getHtml() ?>
+      </div>
+    </li>
+  <?php endforeach; ?>
+</ol>

@@ -1,0 +1,6 @@
+# Mappings
+src/code/ContentList.php                app/code/local/Example/Feature/Block/ContentList.php
+src/etc/config.xml                      app/code/local/Example/Feature/etc/config.xml
+src/etc/modules.xml                     app/etc/modules/Example_Feature.xml
+src/etc/layout.xml                      app/design/frontend/base/default/layout/example_feature.xml
+src/views/content_list.phtml            app/design/frontend/base/default/template/example_feature/content_list.phtml

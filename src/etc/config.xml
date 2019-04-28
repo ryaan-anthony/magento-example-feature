@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Example_Feature>
+            <version>1.1.0</version>
+        </Example_Feature>
+    </modules>
+    <global>
+        <blocks>
+            <example_feature>
+                <class>Example_Feature_Block</class>
+            </example_feature>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <example_feature>
+                    <file>example_feature.xml</file>
+                </example_feature>
+            </updates>
+        </layout>
+    </frontend>
+</config>
