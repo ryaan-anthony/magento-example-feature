@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "ryaan-anthony/simple-content-builder",
-            "version": "v1.1.0",
+            "version": "v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryaan-anthony/simple-content-builder.git",
-                "reference": "c568ff69eb11847da85aa2758ce1b7de844088fc"
+                "reference": "32560a0e82e9a7947d26870ddcd2a9e246e92f85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryaan-anthony/simple-content-builder/zipball/c568ff69eb11847da85aa2758ce1b7de844088fc",
-                "reference": "c568ff69eb11847da85aa2758ce1b7de844088fc",
+                "url": "https://api.github.com/repos/ryaan-anthony/simple-content-builder/zipball/32560a0e82e9a7947d26870ddcd2a9e246e92f85",
+                "reference": "32560a0e82e9a7947d26870ddcd2a9e246e92f85",
                 "shasum": ""
             },
             "require-dev": {
@@ -31,7 +31,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Simple content builder",
-            "time": "2019-04-28T16:57:30+00:00"
+            "time": "2019-04-28T19:36:19+00:00"
         }
     ],
     "packages-dev": [
