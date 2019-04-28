@@ -1,6 +1,8 @@
 # magento-example-feature
 Example customization for Magento v1 webstore
 
+[![Build Status](https://travis-ci.org/ryaan-anthony/magento-example-feature.svg?branch=master)](https://travis-ci.org/ryaan-anthony/magento-example-feature)
+
 This is not intended to be a profound feature. Just some POC code for [an integrations project](https://github.com/ryaan-anthony/magento-dev).
 
 - - - 
